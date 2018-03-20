@@ -1,10 +1,139 @@
-<!Doctype html>
 <html>
 <head>
-  <title> </title>
-  </head>
-  <body> 
-  <h1> </h1>
-  <p> </p>
-<body>
+<title> kabt profile </title>
+<style>
+body {
+        background-image: url("wood.jpg");
+} 
+</style>
 </head>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #D2B48C;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: brown;
+    color: black;
+}
+
+li a:hover:not(.active) {
+    background-color: brown;
+    color: black;
+}
+</style>
+</head>
+<body>
+<font face="monotype corsiva" size="3" color="black">
+<ul>
+  <li><a class="active" ><a href="#home">HOME</a></li>
+  <li><a class="active" ><a href="#blog">BLOG</a></li>
+  <li><a class="active" href="#profile">PROFILE</a></li>
+</ul>
+</font>
+</body>
+<br><br>
+<body>
+<center>
+<font face="monotype corsiva" size="40">
+<h1><i>POEM FOR LIFE</i></h1>
+</font>
+</center>
+</body>
+</br>
+<body>
+<center>
+<div class="image123">
+    <img src="14707782_1158352147545869_8033741006376479096_o.jpg" height="300" width="200" style="float:center">
+<head>
+<style>
+div {
+    background-color: #8B4513;
+    
+}
+</style>
+</head>
+<div>
+<font face="monotype corsiva" size="6" color="black">
+<br>
+<br>I am KURT VERGEL B. TAGUIAM
+<br><br>
+I was Born on SEPTEMBER 13, 2001
+<br><br>
+I am 16 years old
+<br><br>
+I am currently studying at JEAN BAPTISTE OF REIMS COLLEGE 
+<br><br>
+My hobbies are:
+<br>
+dancing, playing basketball, volleyball, table tennis and badminton
+<br>
+</div>
+</font>
+</div>
+</font>
+</center>
+</body>
+<head>
+<br>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+<center>
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-instagram"></a>
+</center>
+</body>
+<br>
+<font face="monotype corsiva" size="3" color="none">
+<head>KURT VERGEL TAGUIAM</head>
+</font>
+</br>
+</html>
